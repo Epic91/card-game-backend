@@ -1,0 +1,2 @@
+class DiscardPileController < ApplicationController
+end
