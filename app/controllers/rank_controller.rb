@@ -1,2 +1,0 @@
-class RankController < ApplicationController
-end
