@@ -1,2 +1,2 @@
-class Game < ApplicationRecord::API
+class Game < ApplicationRecord
 end

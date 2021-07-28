@@ -1,3 +1,3 @@
-class User < ApplicationRecord::API
-    
+class User < ApplicationRecord
+
 end
